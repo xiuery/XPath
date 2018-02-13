@@ -125,6 +125,7 @@ attribute
 example：
 attribute::lang	        #选取当前节点的lang属性
 attribute::*	        #选取当前节点的所有属性
+```
 
 - 选取当前节点的所有子元素
 ```
